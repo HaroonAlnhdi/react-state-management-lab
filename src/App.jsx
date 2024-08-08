@@ -92,7 +92,7 @@ const App = () => {
 
       updateTeamStats([...team, fighter]);
     } else {
-      console.log("Not enough money");
+      console.log("Not enough money"); // not require =)
     }
   };
 
